@@ -1,4 +1,4 @@
-package Core_Java;
+
 public class Loop {
     public static void main(String[] args) {
         //while loop

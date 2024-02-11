@@ -1,3 +1,4 @@
+package OOPs;
 class Animal1 {
     void eat1() {
         System.out.println("vivek is running");

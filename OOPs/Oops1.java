@@ -1,3 +1,4 @@
+package OOPs;
 class Animal2 extends Birds {
     String name;
     String breed;

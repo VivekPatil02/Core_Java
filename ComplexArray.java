@@ -1,4 +1,3 @@
-package Core_Java;
 public class ComplexArray {
     public static void main(String[] args) {
         //here we created 4 element array at runtime so we can't change array size later on.
