@@ -7,7 +7,7 @@ class Employee {
     //below is getter method
     //above name and age properties are private so can't access in main method directly(because main method in another Encapsulation class instead of Employee class)
 
-    //note: private var/properties of some class only accessible by method of that class,outside of that class it cant be accessible.so that we introduced getter method to get the value of private var and through this method we can read the value of private var in another method which is encapsulation here.
+    //note: private var/properties of some class only accessible by method of that class,outside of that class it cant be accessible.so that we introduced getter method to get the value of private var and through this method we can read the value of private var in another class which is encapsulation here.
     public int getAge() {
         return age;
     }
