@@ -1,3 +1,4 @@
+
 public class Array {
     public static void main(String[] args) {
         // we use array to assign multiple values to one variable

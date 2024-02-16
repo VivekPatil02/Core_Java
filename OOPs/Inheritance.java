@@ -5,10 +5,11 @@ class Animal {
     }
 }
 
-class Calculator{
+class Calculator extends Animal {
     public int add(int n1,int n2){
-        int result = n1+n2;
+        int result = n1*n2;
         return result;
+        
     }
 }
 
@@ -18,6 +19,7 @@ public class Inheritance {
         dog.eat();
 
         Calculator calc = new Calculator();
+        calc.eat();
         int addition = calc.add(5,6);
         System.out.println(addition);
     }

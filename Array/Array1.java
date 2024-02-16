@@ -1,3 +1,4 @@
+
 class Human {
     String Name;
     int Marks;
